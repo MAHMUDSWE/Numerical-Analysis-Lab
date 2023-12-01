@@ -8,3 +8,6 @@
 
 ## 03_False_Position_Method
 ![Graphical View of roots using False Position Method](https://github.com/MAHMUDSWE/Numerical-Analysis-Lab/assets/61628453/8026a74f-a9a4-42a8-9ee8-01e9c493adc7)
+
+## 04_Newton_Raphson_Method
+![Graphical View of roots using Newton Raphson Mehtod](https://github.com/MAHMUDSWE/Numerical-Analysis-Lab/assets/61628453/e213ffd0-8db2-4d13-b227-0ec0a15c60e9)
