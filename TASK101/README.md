@@ -4,5 +4,7 @@
 ![Matrix Manipulation 02](https://github.com/MAHMUDSWE/Numerical-Analysis-Lab/assets/61628453/ba8b2213-cf8c-4d34-a3e5-b103ffbb2746)
 
 ## 02_Bisection_Method
+![Graphical View of roots using Bisection Method](https://github.com/MAHMUDSWE/Numerical-Analysis-Lab/assets/61628453/d55377e4-db6b-4793-961f-ccb6b2b60f08)
 
-![Graphical View of roots using Bisection Method](https://github.com/MAHMUDSWE/Numerical-Analysis-Lab/assets/61628453/80c4b9dd-bccc-4b7f-9d77-41f95b7176d9)
+## 03_False_Position_Method
+![Graphical View of roots using False Position Method](https://github.com/MAHMUDSWE/Numerical-Analysis-Lab/assets/61628453/8026a74f-a9a4-42a8-9ee8-01e9c493adc7)
